@@ -36,9 +36,10 @@ This app will collect necessary data such as farmer details, their crop producti
 
 
 Authors
-Niranjini Arunachalam
-Rishu Mishra
-Divya Rawat
+----------
+Niranjini Arunachalam,
+Rishu Mishra,
+Divya Rawat,
 Pragya Jha
 
 Demo File:
